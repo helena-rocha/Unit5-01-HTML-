@@ -1,3 +1,7 @@
-<script>
-  alert ( 'Hello world' );
-</script>
+function hello() {
+alert("Hello, World!");
+}
+
+#first-text {
+  color: aquamarine
+}
